@@ -696,6 +696,26 @@
     font-size: var(--fs-6);
     font-weight: var(--fw-300);
     line-height: 1.6;
+    margin-bottom: 0.5rem;
+  }
+
+  .modal-content h5{
+    margin-top: 0.75rem;
+    font-weight: var(--fw-600);
+    color: var(--light-gray);
+  }
+
+  .modal-content ul{
+    color: var(--light-gray);
+    list-style: disc;
+    list-style: inside;
+    margin-top: 0.5rem;
+  }
+
+  .modal-img-wrapper a{
+    color: var(--orange-yellow-crayola);
+    margin-top: 1rem;
+    font-weight: var(--fw-400);
   }
   
   
